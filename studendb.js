@@ -1,4 +1,5 @@
 const datastudent = {
+"201943270": {"nombre" : "Manuel" , "semestre": 8 , "soltero":true , "gustos" : ['comer', 'dormir','jugar']},
 "20180605": {"nombre" : "Fredy" , "semestre": 6 , "soltero":false , "gustos" : ['comer', 'bailar','viajar']},
 "1940805-3743":"",
 "2043246-3743":{"nombre" : "José" , "semestre": 6 , "soltero":true , "gustos" : ['videojuegos', 'series','comer']},
