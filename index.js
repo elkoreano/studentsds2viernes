@@ -9,7 +9,7 @@ app.get('/api/info/:code', (req, res) => {
     const { code } = req.params 
     const studencode = studentdata[code];
 
-    let infostudent = (studencode !== undefined && studencode !== '' )? studencode : 'No info' 
+    let infostudent = (studencode !== undefined && studencode !== '' ) ? studencode : 'No info' 
 
     res.send(infostudent)
     
